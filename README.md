@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Joy Sutradhor, a full-time full-stack freelance developer . </div>  
+### <div align="center">I'm Joy Sutradhor, I'm FrontEnd Developer And Learn BackEnd Technology As well</div>  
   
 
 -  I’m currently learning At Progamming Hero  
